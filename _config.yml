@@ -1,0 +1,8 @@
+title: Wiki
+description: Project documentation
+theme: just-the-docs
+
+url: https://lengthenedgradient.github.io
+baseurl: /Wiki
+
+search_enabled: true
