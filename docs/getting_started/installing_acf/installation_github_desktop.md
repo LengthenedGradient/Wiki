@@ -46,10 +46,12 @@ Visit the [official download link](https://docs.GitHub.com/en/desktop/installing
 Make sure to install [Wiremod](https://github.com/wiremod) and [Contraption Framework](https://github.com/ACF-Team/CFW) the same way.
 
 # Updating your ACF-3 instance
-1. Click on the "Fetch Origin" button.
-    ![alt text](gh_desktop_updates.png)
+1. Click on the "Fetch Origin" button
+
+   ![alt text](gh_desktop_updates.png)
 2. If there are updates, a download icon should appear. Click on it and confirm to download the changes.
 
 # Switching branches
 1. Select the "current branch" dropdown and select your branch of choice
-    ![alt text](gh_desktop_switch_branches.png)
+
+   ![alt text](gh_desktop_switch_branches.png)
