@@ -4,4 +4,4 @@ layout: default
 
 {{ content }}
 
-Last Modified: {% last_modified_at %}
+Last Modified: {{ page.last_modified_at | date: "%d-%b-%y" }}
