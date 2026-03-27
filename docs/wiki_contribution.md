@@ -1,6 +1,6 @@
 ---
 title: Wiki Contribution
-nav_order: 7
+nav_order: 8
 ---
 
 The wiki is hosted through GitHub pages, with the source code located in a separate [GitHub](https://github.com/LengthenedGradient/Wiki) repository.
