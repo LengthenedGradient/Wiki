@@ -8,9 +8,13 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-last-modified-at
 
 search_enabled: true
 nav_expand: true
+
+last-modified-at:
+  date-format: '%d-%b-%y'
 
 # Callout configuration
 callouts:
