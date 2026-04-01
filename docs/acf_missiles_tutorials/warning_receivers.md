@@ -10,7 +10,7 @@ nav_order: 5
 
 ### Radar Warning Receiver
 
-{% include image.html src="radarwarningreceiver.jpg" width="25%" %}
+{% include image.html src="warning_receivers/radarwarningreceiver.jpg" width="25%" %}
 
 * This warning receiver solely detects radars when inside their view cone.
 
@@ -22,7 +22,7 @@ These type of radars are capable of detecting entire vehicles and giving data ab
 
 ### Laser Warning Receiver
 
-{% include image.html src="laserwarningreceiver.jpg" width="25%" %}
+{% include image.html src="warning_receivers/laserwarningreceiver.jpg" width="25%" %}
 
 * This warning receiver solely detects lasers aimed near it.
 
