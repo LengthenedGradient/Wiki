@@ -1,7 +1,7 @@
 ---
 title: Optimization
 parent: Your First Tank
-nav_order: 9
+nav_order: 10
 ---
 
 {: .notice}
