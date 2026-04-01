@@ -1,7 +1,7 @@
 ---
 title: Changing Entity Limits
 parent: For Server Owners
-nav_order: 1
+nav_order: 2
 ---
 
 You can adjust entity limits in two ways:
